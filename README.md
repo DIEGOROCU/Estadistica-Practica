@@ -1,4 +1,5 @@
-# Práctica de la Asignatura de Estadística  
+# Estadistica-Practica
+Practica de la asignatura Estadística de 2ºIngenieria informática-Matemáticas UCM. 
 
 En este código se realizan los ejemplos del manual de R adjunto, explicando los comandos utilizados, el funcionamiento de cada ejemplo y los resultados obtenidos. También es posible ejecutar el código manualmente.  
 
